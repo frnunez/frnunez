@@ -7,6 +7,6 @@ Hi, I'm Francisco, an aspiring Data Scientist. I currently work as a COmpliance 
 
 ## Get in touch
 - Twitter: https://twitter.com/frnunezfondeur
-- Github Pages site: https://frnunez.github.io/
+- Portfolio / Github Pages site: https://frnunez.github.io/
 - LinkedIn : https://www.linkedin.com/in/frnunezfon/
 - Lapel Pins / Mark Well Accessories IG: https://www.instagram.com/markwellaccessories/
