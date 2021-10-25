@@ -3,7 +3,6 @@ Hi, I'm Francisco, an aspiring Data Scientist. I currently work as a Compliance 
 
 ## Interests
 - Deep Learning
-- NYC Transportation
 - E-Commerce
 
 ## Get in touch
