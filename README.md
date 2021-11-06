@@ -1,5 +1,5 @@
 # Francisco Nuñez-Fondeur
-Hi, I'm Francisco, a data sceientist and business systems analyst. I currently reside in New York, NY.
+Hi, I'm Francisco, a Data Scientist and Business Systems Analyst. I currently reside in New York, NY.
 
 ## Interests
 - Deep Learning
