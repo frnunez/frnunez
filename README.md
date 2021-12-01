@@ -2,6 +2,7 @@
 Hi, I'm Francisco, a Data Scientist and Business Systems Analyst. I currently reside in New York, NY.
 
 ## Interests
+- AI
 - Deep Learning
 - E-Commerce
 
