@@ -1,5 +1,35 @@
-# Hi, I'm Francisco 👋
-Hi, I'm Francisco, a Data Scientist and Business Analyst. I currently reside in New York, NY.
+# Francisco Nunez-Fondeur
+IT Business Analyst • Data Scientist • Full Stack Developer
+IT Business Analyst | Data Science | Homelab Enthusiast | Full Stack Developer
+
+Currently working on:
+🚀 NuTech Atlas
+🐳 Docker & Unraid Homelab
+⚡ PowerShell Automation
+💻 C# / .NET
+🌐 React & TypeScript
+
+## Current Projects
+- NuTech Atlas
+- RuneKing Docker Infrastructure
+- Home Lab Automation
+
+## Technologies
+C#
+.NET
+PowerShell
+Docker
+Unraid
+SQL Server
+Git
+GitHub
+React
+TypeScript
+
+## Currently Learning
+- ASP.NET Core
+- Azure
+- Kubernetes
 
 ## Interests
 - AI
