@@ -4,11 +4,11 @@ Building enterprise applications, Docker infrastructure,
 and self-hosted services.
 
 ## Current Focus
-• 🚀 NuTech Atlas
-• 🐳 Docker & Unraid Homelab
-• ⚡ PowerShell Homelab Automation
-• 💻 ASP.NET Core
-• 🌐 React & TypeScript
+- 🚀 NuTech Atlas
+- 🐳 Docker & Unraid Homelab
+- ⚡ PowerShell Homelab Automation
+- 💻 ASP.NET Core
+- 🌐 React & TypeScript
 
 ## Current Projects
 - NuTech Atlas
