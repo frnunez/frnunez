@@ -12,9 +12,9 @@ and self-hosted services.
 - 🌐 React & TypeScript
 
 ## Tech Stack
-- C# • .NET • SQL Server • PowerShell
-- Docker • Unraid • Git • GitHub
-- TypeScript • React • Python
+- C# | .NET | SQL Server | PowerShell
+- Docker | Unraid | Git | GitHub
+- TypeScript | React | Python
 
 ## Featured Projects
 
