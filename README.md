@@ -1,8 +1,8 @@
 # Francisco Nunez-Fondeur
-IT Business Analyst • Data Scientist • Full Stack Developer
 IT Business Analyst | Data Science | Homelab Enthusiast | Full Stack Developer
 
 Currently working on:
+
 🚀 NuTech Atlas
 🐳 Docker & Unraid Homelab
 ⚡ PowerShell Automation
