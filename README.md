@@ -3,11 +3,11 @@ IT Business Analyst | Data Science | Homelab Enthusiast | Full Stack Developer
 Building enterprise applications, Docker infrastructure,
 and self-hosted services.
 
-Current Focus
+## Current Focus
 • 🚀 NuTech Atlas
 • 🐳 Docker & Unraid Homelab
-• ⚡ PowerShell Automation
-• 💻 C# / .NET
+• ⚡ PowerShell Homelab Automation
+• 💻 ASP.NET Core
 • 🌐 React & TypeScript
 
 ## Current Projects
@@ -15,7 +15,7 @@ Current Focus
 - RuneKing Docker Infrastructure
 - Home Lab Automation
 
-## Technologies
+## Tech Stack
 C#
 .NET
 PowerShell
