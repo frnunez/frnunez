@@ -1,4 +1,4 @@
-# Francisco Nuñez-Fondeur
+# Hi, I'm Francisco 👋
 Hi, I'm Francisco, a Data Scientist and Business Analyst. I currently reside in New York, NY.
 
 ## Interests
